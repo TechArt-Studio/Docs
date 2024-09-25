@@ -1,6 +1,6 @@
 ---
 title: Showcase
-description: "Open source projects powered by Hextra"
+description: "Our open source projects"
 toc: false
 layout: wide
 ---
