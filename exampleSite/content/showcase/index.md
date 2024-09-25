@@ -27,3 +27,4 @@ Our Projects
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
+{{< /cards >}}
