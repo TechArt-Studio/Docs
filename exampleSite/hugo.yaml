@@ -71,7 +71,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/TechArt-Studio"
       params:
         icon: github
 
@@ -85,10 +85,6 @@ menu:
       name: "About"
       pageRef: "/about"
       weight: 2
-    - identifier: hugoDocs
-      name: "Hugo Docs ↗"
-      url: "https://gohugo.io/documentation/"
-      weight: 3
 
 params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
@@ -136,7 +132,7 @@ params:
       tokenize: forward
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
 
   blog:
