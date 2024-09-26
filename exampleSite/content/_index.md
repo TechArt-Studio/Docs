@@ -27,6 +27,8 @@ layout: hextra-home
 
 <div class="hx-mt-6"></div>
 
-## Explore 
+<div class="hx-mt-6 hx-mb-6">
+Explore 
+</div>
 
 {{< cards >}} {{< card link="docs" title="Docs" icon="book-open" >}} {{< card link="about" title="About" icon="user" >}} {{< /cards >}}
