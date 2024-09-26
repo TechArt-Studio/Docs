@@ -132,8 +132,8 @@ params:
       tokenize: forward
 
   editURL:
-    enable: false
-    base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+    enable: true
+    base: "https://github.com/Dev-Huang1/TechArt-Docs/edit/main/exampleSite/content"
 
   blog:
     list:
