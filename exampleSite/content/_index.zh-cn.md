@@ -27,6 +27,22 @@ layout: hextra-home
 
 <div class="hx-mt-6"></div>
 
-## Explore 
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="开始阅读"
+    subtitle="阅读快速而简单，只需访问我们的文档网站即可获取帮助文档"
+  >}}
+  {{< hextra/feature-card
+    title="逐步指导"
+    subtitle="在 Tech-Art 帮助文档的帮助下找到您需要的解决方案"
+  >}}
+  {{< hextra/feature-card
+    title="平台安全性"
+    subtitle="有用的提示、说明和公告可帮助您使用我们的产品"
+  >}}
+  {{< hextra/feature-card
+    title="联系我们"
+    subtitle="联系我们的帮助来协助您。"
+  >}}
 
-{{< cards >}} {{< card link="docs" title="文档" icon="book-open" >}} {{< card link="about" title="关于" icon="user" >}} {{< /cards >}}
+{{< /hextra/feature-grid >}}
