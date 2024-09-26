@@ -31,19 +31,16 @@ layout: hextra-home
   {{< hextra/feature-card
     title="Step-by-step instructions"
     subtitle="Find the solutions you need with the help of Tech-Art Help Documents."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
     title="Platform Security"
     subtitle="Helpful tips, instructions, and announcements to help you use our products."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
     title="Contact Help"
     subtitle="Contact our help desk to assist you."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
 
