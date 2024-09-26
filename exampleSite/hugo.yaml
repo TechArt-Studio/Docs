@@ -1,6 +1,6 @@
 # Configuration
 baseURL: "https://docs.xyehr.cn/"
-title: "Hextra"
+title: "Tech-Art Help Docs"
 
 enableRobotsTXT: true
 enableGitInfo: true
