@@ -31,7 +31,7 @@ layout: hextra-home
   {{< hextra/feature-card
     title="Step-by-step instructions"
     subtitle="Find the solutions you need with the help of Tech-Art Help Documents."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
