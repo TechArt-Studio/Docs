@@ -24,8 +24,23 @@ One Captcha has the following functions and features:
 - End-to-end encryption
 - Multilingual (in development)
 
-## Quick Start
+## UI
 
+Light Mode
+
+![Light]https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/One-Captcha-Preview.png)
+
+Dark Mode
+
+![Dark](https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/One-Captcha-Preview-Dark.png)
+
+Loading
+
+![Loading](https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/Preview-Loading.png)
+
+Success
+
+![Success](https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/Preview-Success.png)
 
 ## Link
 
