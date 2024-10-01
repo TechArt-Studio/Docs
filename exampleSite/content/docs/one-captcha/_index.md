@@ -24,18 +24,18 @@ One Captcha has the following functions and features:
 
 Light Mode
 
-![Light](assets/One-Captcha-Preview.png)
+![Light](https://github.com/Dev-Huang1/One-Captcha/blob/main/assets/One-Captcha-Preview.png)
 
 Dark Mode
 
-![Dark](assets/One-Captcha-Preview-Dark.png)
+![Dark](https://github.com/Dev-Huang1/One-Captcha/blob/main/assets/One-Captcha-Preview-Dark.png)
 
 Loading
 
-![Loading](assets/Preview-Loading.png)
+![Loading](https://github.com/Dev-Huang1/One-Captcha/blob/main/assets/Preview-Loading.png)
 
 Success
 
-![Success](assets/Preview-Success.png)
+![Success](https://github.com/Dev-Huang1/One-Captcha/blob/main/assets/Preview-Success.png)
 
 ## Quick Start
