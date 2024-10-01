@@ -1,7 +1,6 @@
 ---
 linkTitle: "Supported Language"
 title: Supported Language
-next: docs/one-captcha/more/supported-language
 prev: docs/one-captcha/more/browser-support
 ---
 
