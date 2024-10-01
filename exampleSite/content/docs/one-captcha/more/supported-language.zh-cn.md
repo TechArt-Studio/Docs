@@ -1,7 +1,6 @@
 ---
 linkTitle: "支持的语言"
 title: 支持的语言
-next: docs/one-captcha/more/supported-language
 prev: docs/one-captcha/more/browser-support
 ---
 
