@@ -13,7 +13,7 @@ This page describes how to display and customize the One Captcha v3 Developer Be
 
 ### Step 1
 
-Import the following One Captcha API JavaScript code into the <head> tag of your HTML page code:
+Import the following One Captcha API JavaScript code into the `<head>` tag of your HTML page code:
 
 ```html
 <script src="https://onecaptcha.us.kg/assets/v3-db/api.js"></script>
@@ -29,7 +29,7 @@ Import the following One Captcha API JavaScript code into the <head> tag of your
 
 ### Step 2
 
-Add the HTML code that renders One Captcha in the <body> tag of your HTML page file:
+Add the HTML code that renders One Captcha in the `<body>` tag of your HTML page file:
 
 ```html
 <div id="one-captcha" data-callback="Your Callback Function"></div>
