@@ -36,3 +36,37 @@ Add the HTML code that renders One Captcha in the <body> tag of your HTML page f
 ```
 
 {{% /steps %}}
+
+## Configuration properties
+
+| Name | Description |
+| ---- | ----------- |
+| data-callback | The name of the callback function that is executed when the user submits a successful response. The one captcha token will be passed to your callback. |
+| data-lang | Optional, this is a custom language, currently supported languages |
+
+## Verify Captcha Response
+
+After successful verification, One Captcha assigns the same ID to the data-callback function and the cookie: a one-time token. You can use this token to retrieve the result of the user's requested verification from the service. The token is valid for 15 seconds. After this time expires, it becomes invalid and the user must complete the verification process again.
+
+### data-callback example:
+
+```javascript {hl_lines=[14,16]}
+function CaptchaSuccess(token) {
+    // Function to get the value of a cookie by name
+    function getTokenCookie(name) {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; ${name}=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+
+    // Get the 'OneCaptchaToken' cookie
+    const cookieToken = getTokenCookie('OneCaptchaToken');
+
+    // Compare the provided token with the cookieToken
+    if (token === cookieToken) {
+        // Execute your verification code here
+    } else {
+        // Execute the code after verification fails here
+    }
+}
+```
