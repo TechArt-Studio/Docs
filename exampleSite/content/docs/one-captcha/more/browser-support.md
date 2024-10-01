@@ -1,8 +1,6 @@
 ---
 linkTitle: "Browser Support"
 title: Browser Support
-sidebar:
-  open: true
 ---
 
 All modern browsers are supported on mobile and desktop, all versions are at least 8 years old. This includes Safari, Edge, Chrome, Firefox, and Opera. Internet Explorer 11 may also work, but there are some side notes (see the section below).
