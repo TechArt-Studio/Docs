@@ -1,6 +1,9 @@
 ---
 linkTitle: "One Captcha"
 title: Introduction
+next: /docs/one-captcha/getting-started
+sidebar:
+  open: true
 ---
 
 
