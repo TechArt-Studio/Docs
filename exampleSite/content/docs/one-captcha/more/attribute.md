@@ -1,6 +1,7 @@
 ---
 linkTitle: "Attribute"
 title: Attribute
+next: docs/one-captcha/more/browser-support
 ---
 
 | Name | Description |
