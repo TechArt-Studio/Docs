@@ -6,6 +6,7 @@ sidebar:
   open: true
 ---
 
+![Banner](https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/One-Captcha-Banner.png)
 
 ## What is One Captcha?
 
