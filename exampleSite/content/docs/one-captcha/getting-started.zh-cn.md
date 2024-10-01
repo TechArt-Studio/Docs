@@ -2,6 +2,7 @@
 linkTitle: "快速开始"
 title: 快速开始
 next: docs/one-captcha/more/attribute
+prev: docs/one-captcha
 weight: 1
 ---
 
