@@ -2,6 +2,7 @@
 linkTitle: "快速开始"
 title: 快速开始
 next: docs/one-captcha/more/attribute
+weight: 1
 ---
 
 本页面描述了如何在您的网页上显示并自定义 One Captcha v3 开发者测试版小部件。
