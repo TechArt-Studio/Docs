@@ -28,7 +28,7 @@ One Captcha has the following functions and features:
 
 Light Mode
 
-![Light]https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/One-Captcha-Preview.png)
+![Light](https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/One-Captcha-Preview.png)
 
 Dark Mode
 
