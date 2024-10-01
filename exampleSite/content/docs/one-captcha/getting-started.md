@@ -2,6 +2,7 @@
 linkTitle: "Getting Started"
 title: Getting Started 
 next: docs/one-captcha/more/attribute
+prev: docs/one-captcha
 weight: 1
 ---
 
