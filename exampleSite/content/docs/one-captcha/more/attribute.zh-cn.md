@@ -1,6 +1,7 @@
 ---
 linkTitle: "属性"
 title: 属性
+docs/one-captcha/more/browser-support
 ---
 
 | Name | Description |
