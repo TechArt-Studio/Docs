@@ -50,7 +50,7 @@ After successful verification, One Captcha assigns the same ID to the data-callb
 
 ### data-callback example:
 
-```javascript {hl_lines=[14,16]}
+```javascript {linenos=table,linenostart=1,hl_lines=[14,16]}
 function CaptchaSuccess(token) {
     // Function to get the value of a cookie by name
     function getTokenCookie(name) {
