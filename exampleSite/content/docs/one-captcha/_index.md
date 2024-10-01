@@ -10,7 +10,9 @@ sidebar:
 
 ## What is One Captcha?
 
-One Captcha is an open source Captcha web widget that complies with GDPR and protects user privacy
+One Captcha is an open source Captcha web widget that complies with GDPR and protects user privacy. You can add the **One Captcha widget** to your web application to combat bots with minimal impact on the user experience.
+
+This document will show you how to integrate One Captcha into your website. If you would like to learn more about One Captcha, please visit the [One Captcha website](https://onecaptcha.us.kg).
 
 ## Why One Captcha?
 
