@@ -13,7 +13,7 @@ weight: 1
 
 ### Step 1
 
-将以下 One Captcha API JavaScript 代码导入到您的 HTML 页面代码的 <head> 标签中：
+将以下 One Captcha API JavaScript 代码导入到您的 HTML 页面代码的 `<head>` 标签中：
 
 ```html
 <script src="https://onecaptcha.us.kg/assets/v3-db/api.js"></script>
@@ -29,7 +29,7 @@ weight: 1
 
 ### Step 2
 
-在您的 HTML 页面文件的 <body> 标签中添加渲染 One Captcha 的 HTML 代码：
+在您的 HTML 页面文件的 `<body>` 标签中添加渲染 One Captcha 的 HTML 代码：
 
 ```html
 <div id="one-captcha" data-callback="您的回调函数"></div>
