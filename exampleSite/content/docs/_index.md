@@ -9,7 +9,7 @@ title: Introduction
 
 ## What is Tech-Art?
 
-Tech-Art is a studio founded in China whose main mission is to help protect your privacy.
+Tech-Art is a studio founded in China.
 
 ## Contact us
 
