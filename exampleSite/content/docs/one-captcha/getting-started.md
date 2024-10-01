@@ -1,8 +1,6 @@
 ---
 linkTitle: "Getting Started"
 title: Getting Started 
-sidebar:
-  open: false
 ---
 
 This page describes how to display and customize the One Captcha v3 Developer Beta widget on your web page.
