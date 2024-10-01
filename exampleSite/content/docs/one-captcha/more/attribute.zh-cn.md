@@ -2,6 +2,7 @@
 linkTitle: "属性"
 title: 属性
 next: docs/one-captcha/more/browser-support
+prev: docs/one-captcha/getting-started
 ---
 
 | Name | Description |
