@@ -51,7 +51,7 @@ After successful verification, One Captcha assigns a hashed ID to the website co
 
 ### data-callback example:
 
-```javascript {linenos=table,linenostart=1,hl_lines=[24,26]}
+```javascript {linenos=table,linenostart=1,hl_lines=[25,27]}
 async function CaptchaSuccess(token) {
     // Function to retrieve the value of a cookie by name
     function getTokenCookie(name) {
