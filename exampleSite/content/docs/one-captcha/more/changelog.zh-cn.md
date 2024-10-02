@@ -2,6 +2,7 @@
 linkTitle: "更新日志"
 title: 更新日志
 prev: docs/one-captcha/supported-language
+weight: 4
 ---
 
 ### 2024.10.02
