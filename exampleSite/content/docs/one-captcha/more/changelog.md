@@ -2,6 +2,7 @@
 linkTitle: "Changelog"
 title: Changelog
 prev: docs/one-captcha/supported-language
+weight: 4
 ---
 
 ### 2024.10.02
