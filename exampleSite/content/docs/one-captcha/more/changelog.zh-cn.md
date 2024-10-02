@@ -10,7 +10,7 @@ prev: docs/one-captcha/supported-language
 
 ### 2024.09.30
 
-添加了[多语言](docs/one-captcha/more/supported-language)功能
+添加了[多语言](https://docs.xyehr.cn/docs/one-captcha/more/supported-language)功能
 
 ### 2024.09.29
 
