@@ -5,6 +5,10 @@ prev: docs/one-captcha/supported-language
 weight: 4
 ---
 
+### 2024.10.04
+
+更新 loading-spinner 在暗色模式下的背景为黑色
+
 ### 2024.10.02
 
 改进了Callback函数为哈希令牌
