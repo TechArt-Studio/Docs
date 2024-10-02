@@ -47,12 +47,12 @@ weight: 1
 
 ## 验证 Captcha 响应
 
-成功验证后，One Captcha 会将相同的 ID 分配给 data-callback 函数和 cookie：一个一次性 token。您可以使用此 token 从服务中获取用户请求验证的结果。该 token 有效期为 15 秒。此时间过后，token 失效，用户必须重新完成验证过程。
+验证成功后，One Captcha 会为网站 cookie 分配一个哈希 ID：一次性令牌。它还会为回调函数分配一个非哈希令牌，您可以在将非哈希令牌加密为哈希值后从 cookie 中检索该令牌。Cookie 令牌的有效期为 15 秒。此时间到期后，令牌将失效，用户必须重新完成验证过程。
 
 ### data-callback 示例：
 
-```javascript {linenos=table,linenostart=1,hl_lines=[14,16]}
-function CaptchaSuccess(token) {
+```javascript {linenos=table,linenostart=1,hl_lines=[25,27]}
+async function CaptchaSuccess(token) {
     // 获取指定名称的 cookie 值的函数
     function getTokenCookie(name) {
         const value = `; ${document.cookie}`;
@@ -60,14 +60,26 @@ function CaptchaSuccess(token) {
         if (parts.length === 2) return parts.pop().split(';').shift();
     }
 
-    // 获取 'OneCaptchaToken' cookie
+    // 获取 OneCaptchaToken 的 cookie
     const cookieToken = getTokenCookie('OneCaptchaToken');
 
-    // 将提供的 token 与 cookieToken 进行比较
-    if (token === cookieToken) {
-        // 在这里执行您的验证代码
+    // 使用 SHA-512 对 token 进行哈希的函数
+    async function hashToken(token) {
+        const encoder = new TextEncoder();
+        const dataBuffer = encoder.encode(token);
+        const hashBuffer = await crypto.subtle.digest('SHA-512', dataBuffer);
+        const hashArray = Array.from(new Uint8Array(hashBuffer));
+        const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+        return hashHex;
+    }
+
+    // 比较哈希后的 token 与 cookieToken
+    const hashedToken = await hashToken(token); // 对传入的 token 进行哈希
+    if (hashedToken === cookieToken) {
+        // 验证成功后执行你的代码
     } else {
-        // 在验证失败后执行的代码
+        // 验证失败后执行你的代码
     }
 }
+
 ```
