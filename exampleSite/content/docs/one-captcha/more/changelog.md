@@ -10,7 +10,7 @@ Improved Callback function to hash token
 
 ### 2024.09.30
 
-Add [multi-language](docs/one-captcha/more/supported-language) function
+Add [multi-language](https://docs.xyehr.cn/docs/one-captcha/more/supported-language) function
 
 ### 2024.09.29
 
