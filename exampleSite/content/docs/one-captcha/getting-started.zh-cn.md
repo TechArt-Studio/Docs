@@ -17,7 +17,7 @@ weight: 1
 将以下 One Captcha API JavaScript 代码导入到您的 HTML 页面代码的 `<head>` 标签中：
 
 ```html
-<script src="https://onecaptcha.us.kg/assets/v3-db/api.js"></script>
+<script src="https://onecaptcha.us.kg/0/api.js"></script>
 ```
 
 {{< callout type="info" >}}
@@ -25,7 +25,7 @@ weight: 1
 {{< /callout >}}
 
 ```html
-<script src="https://onecaptcha.us.kg/assets/api/v3-db/api2.js"></script>
+<script src="https://onecaptcha.us.kg/0/api_test.js"></script>
 ```
 
 ### 第二步
