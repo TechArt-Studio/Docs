@@ -1,6 +1,7 @@
 ---
 linkTitle: "Privacy Policy"
 title: "Privacy Policy"
+weight: 5
 ---
 
 ### Privacy Policy
