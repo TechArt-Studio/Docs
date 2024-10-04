@@ -7,7 +7,7 @@
 {{- $footerWidth := "hx-max-w-screen-xl" -}}
 {{- with .Site.Params.footer.width -}}
   {{ if eq . "wide" -}}
-    {{ $footerWidth = "hx-max-w-[90rem]" -}}
+    {{ $footerWidth = "hx-max-w-[65rem]" -}}
   {{ else if eq . "full" -}}
     {{ $footerWidth = "max-w-full" -}}
   {{ end -}}
