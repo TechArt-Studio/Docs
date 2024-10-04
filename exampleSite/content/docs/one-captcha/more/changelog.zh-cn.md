@@ -1,7 +1,8 @@
 ---
 linkTitle: "更新日志"
 title: 更新日志
-prev: docs/one-captcha/supported-language
+prev: docs/one-captcha/more/supported-language
+next: docs/one-captcha/more/privacy
 weight: 4
 ---
 
