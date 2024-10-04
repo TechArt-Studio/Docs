@@ -1,6 +1,7 @@
 ---
 linkTitle: "Terms of Use"
 title: Terms of Use
+weight: 6
 ---
 
 ### Terms of Use
