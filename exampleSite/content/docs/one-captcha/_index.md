@@ -12,7 +12,7 @@ sidebar:
 
 A CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) is a type of challenge-response test used in computing to determine whether the user is human or a bot. It works by presenting tasks that are easy for humans to perform but difficult for automated programs, such as recognizing distorted text or selecting specific images. CAPTCHA systems are commonly used to prevent bots from interacting with websites, such as filling out forms or creating accounts, and they help reduce spam or automated abuse.
 
--- From Wikipedia
+-- From [Wikipedia](https://en.m.wikipedia.org/wiki/CAPTCHA)
 
 ## What is One Captcha?
 
