@@ -1,6 +1,7 @@
 ---
 linkTitle: "使用条款"
 title: "使用条款"
+weight: 6
 ---
 
 ### 使用条款
