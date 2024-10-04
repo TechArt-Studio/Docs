@@ -1,6 +1,8 @@
 ---
 linkTitle: "Terms of Use"
 title: Terms of Use
+prev: docs/one-captcha/more/privacy
+next: docs/one-captcha/getting-started
 weight: 6
 ---
 
