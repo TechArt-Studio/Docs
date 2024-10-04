@@ -1,6 +1,8 @@
 ---
 linkTitle: "隐私政策"
 title: 隐私政策
+prev: docs/one-captcha/more/changelog
+next: docs/one-captcha/more/terms
 weight: 5
 ---
 
