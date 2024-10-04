@@ -101,8 +101,7 @@ title: 隐私政策
 
 - **电子邮件**：您可以通过电子邮件与我们联系，地址为：www@xyehr.cn。
 - **社交媒体**：
-  - [Twitter](https://x.com/Dev_Huang1)
-  - [Telegram](https://t.me/@Dev-Huang)
+  - [Twitter](https://x.com/Tech__Art)
 
 我们将在合理的时间内对您的请求做出响应，并努力解决您的疑问或问题。
 
