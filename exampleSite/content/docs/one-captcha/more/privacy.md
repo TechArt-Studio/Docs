@@ -1,6 +1,8 @@
 ---
 linkTitle: "Privacy Policy"
 title: "Privacy Policy"
+prev: docs/one-captcha/more/changelog
+next: docs/one-captcha/more/terms
 weight: 5
 ---
 
