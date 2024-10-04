@@ -1,6 +1,8 @@
 ---
 linkTitle: "使用条款"
 title: "使用条款"
+prev: docs/one-captcha/more/privacy
+next: docs/one-captcha/getting-started
 weight: 6
 ---
 
