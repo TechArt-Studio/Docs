@@ -1,6 +1,7 @@
 ---
 linkTitle: "隐私政策"
 title: 隐私政策
+weight: 5
 ---
 
 ### 隐私政策
