@@ -23,7 +23,7 @@ Import the following One Captcha API JavaScript code into the `<head>` tag of yo
 **or**
 
 ```html
-<script src="https://onecaptcha.us.kg/0/api_lite.js">
+<script src="https://onecaptcha.us.kg/0/api_lite.js"></script>
 ```
 
 {{< callout type="info" >}}
