@@ -20,6 +20,12 @@ weight: 1
 <script src="https://onecaptcha.us.kg/0/api.js"></script>
 ```
 
+**或者**
+
+```html
+<script src="https://onecaptcha.us.kg/0/api_lite.js"></script>
+```
+
 {{< callout type="info" >}}
   我们还提供了一个测试 API（此测试 API 可以使用一些新功能，但可能不稳定）：
 {{< /callout >}}
