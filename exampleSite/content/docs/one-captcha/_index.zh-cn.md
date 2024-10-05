@@ -50,6 +50,11 @@ One Captcha 具有以下功能和特点：
 
 ![Success](https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/Preview-Success.png)
 
+滑动预览
+
+![Slider Preview](https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/OneCaptchaSliderPreview.png)
+
+
 ## 多语言支持
 
 One Captcha 目前支持英语、简体中文、西班牙语和法语。如果您的母语不在此列表中，请[提问](https://github.com/Dev-Huang1/One-Captcha/issues)或[为我们贡献翻译](https://github.com/Dev-Huang1/One-Captcha/blob/main/assets/api/v3-db/api.js)。
