@@ -20,6 +20,12 @@ Import the following One Captcha API JavaScript code into the `<head>` tag of yo
 <script src="https://onecaptcha.us.kg/0/api.js"></script>
 ```
 
+**or**
+
+```html
+<script src="https://onecaptcha.us.kg/0/api_lite.js">
+```
+
 {{< callout type="info" >}}
   We also have a test API (this test API can use some new features, but may not be stable):
 {{< /callout >}}
