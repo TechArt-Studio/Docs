@@ -10,7 +10,7 @@ weight: 4
 
 Added translations for German and Japanese
 
-### 2024.10.03
+### 2024.10.04
 
 Update loading-spinner to black background in dark mode
 
