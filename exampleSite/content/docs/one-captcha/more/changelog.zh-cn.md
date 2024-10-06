@@ -6,6 +6,10 @@ next: docs/one-captcha/more/privacy
 weight: 4
 ---
 
+### 2024.10.06
+
+增加对德语、日语的翻译
+
 ### 2024.10.04
 
 更新 loading-spinner 在暗色模式下的背景为黑色
