@@ -8,6 +8,12 @@ sidebar:
 
 ![Banner](https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/One-Captcha-Banner.png)
 
+## 什么是 “CAPTCHA”？
+
+CAPTCHA（全自动公共图灵测试，用于区分计算机和人类）是一种用于计算的质询-响应测试，用于确定用户是人类还是机器人。它的工作原理是呈现人类容易执行但自动化程序难以完成的任务，例如识别扭曲的文本或选择特定图像。CAPTCHA 系统通常用于防止机器人与网站交互，例如填写表格或创建帐户，它们有助于减少垃圾邮件或自动滥用。
+
+-- 来自 [Wikipedia](https://en.m.wikipedia.org/wiki/CAPTCHA)
+
 ## 什么是 One Captcha？
 
 One Captcha 是一个符合 GDPR 的开源验证码网页组件，旨在保护用户隐私。您可以将 **One Captcha 组件** 添加到您的 Web 应用程序中，以最小化用户体验影响的同时防止机器人攻击。
@@ -43,6 +49,11 @@ One Captcha 具有以下功能和特点：
 成功
 
 ![Success](https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/Preview-Success.png)
+
+滑动预览
+
+![Slider Preview](https://raw.githubusercontent.com/Dev-Huang1/One-Captcha/main/assets/OneCaptchaSliderPreview.png)
+
 
 ## 多语言支持
 

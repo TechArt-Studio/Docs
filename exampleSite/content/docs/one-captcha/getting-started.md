@@ -17,7 +17,13 @@ This page describes how to display and customize the One Captcha v3 Developer Be
 Import the following One Captcha API JavaScript code into the `<head>` tag of your HTML page code:
 
 ```html
-<script src="https://onecaptcha.us.kg/assets/v3-db/api.js"></script>
+<script src="https://onecaptcha.us.kg/0/api.js"></script>
+```
+
+**or**
+
+```html
+<script src="https://onecaptcha.us.kg/0/api_lite.js"></script>
 ```
 
 {{< callout type="info" >}}
@@ -25,7 +31,7 @@ Import the following One Captcha API JavaScript code into the `<head>` tag of yo
 {{< /callout >}}
 
 ```html
-<script src="https://onecaptcha.us.kg/assets/api/v3-db/api2.js"></script>
+<script src="https://onecaptcha.us.kg/0/api_test.js"></script>
 ```
 
 ### Step 2
@@ -47,27 +53,39 @@ Add the HTML code that renders One Captcha in the `<body>` tag of your HTML page
 
 ## Verify Captcha Response
 
-After successful verification, One Captcha assigns the same ID to the data-callback function and the cookie: a one-time token. You can use this token to retrieve the result of the user's requested verification from the service. The token is valid for 15 seconds. After this time expires, it becomes invalid and the user must complete the verification process again.
+After successful verification, One Captcha assigns a hashed ID to the website cookie: a one-time token. It also assigns a non-hashed token to the callback function, which you can retrieve from the cookie after encrypting the non-hashed token to a hashed value. The cookie token is valid for 15 seconds. After this time expires, the token will become invalid and the user must complete the verification process again.
 
 ### data-callback example:
 
-```javascript {linenos=table,linenostart=1,hl_lines=[14,16]}
-function CaptchaSuccess(token) {
-    // Function to get the value of a cookie by name
+```javascript {linenos=table,linenostart=1,hl_lines=[25,27]}
+async function CaptchaSuccess(token) {
+    // Function to retrieve the value of a cookie by name
     function getTokenCookie(name) {
         const value = `; ${document.cookie}`;
         const parts = value.split(`; ${name}=`);
         if (parts.length === 2) return parts.pop().split(';').shift();
     }
 
-    // Get the 'OneCaptchaToken' cookie
+    // Get the OneCaptchaToken cookie
     const cookieToken = getTokenCookie('OneCaptchaToken');
 
-    // Compare the provided token with the cookieToken
-    if (token === cookieToken) {
-        // Execute your verification code here
+    // Function to hash the token using SHA-512
+    async function hashToken(token) {
+        const encoder = new TextEncoder();
+        const dataBuffer = encoder.encode(token);
+        const hashBuffer = await crypto.subtle.digest('SHA-512', dataBuffer);
+        const hashArray = Array.from(new Uint8Array(hashBuffer));
+        const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+        return hashHex;
+    }
+
+    // Compare the hashed token with the cookieToken
+    const hashedToken = await hashToken(token); // Hash the passed token
+    if (hashedToken === cookieToken) {
+        // After successful verification, execute your code here.
     } else {
-        // Execute the code after verification fails here
+        // Execute your code here after verification fails.
     }
 }
+
 ```

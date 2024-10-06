@@ -3,6 +3,7 @@ linkTitle: "浏览器支持"
 title: 浏览器支持
 next: docs/one-captcha/more/supported-language
 prev: docs/one-captcha/more/attribute
+weight: 2
 ---
 
 所有现代浏览器在移动设备和桌面设备上均受支持，所有版本至少在8年内更新过。包括 Safari、Edge、Chrome、Firefox 和 Opera。Internet Explorer 11 也可能适用，但有一些附注（见下文）。

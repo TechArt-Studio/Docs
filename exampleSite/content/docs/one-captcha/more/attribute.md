@@ -3,6 +3,7 @@ linkTitle: "Attribute"
 title: Attribute
 next: docs/one-captcha/more/browser-support
 prev: docs/one-captcha/getting-started
+weight: 1
 ---
 
 | Name | Description |
