@@ -6,6 +6,10 @@ next: docs/one-captcha/more/privacy
 weight: 4
 ---
 
+### 2024.10.06
+
+Added translations for German and Japanese
+
 ### 2024.10.03
 
 Update loading-spinner to black background in dark mode
