@@ -12,7 +12,8 @@ One Captcha now supports English, Simplified Chinese, Spanish, and French..... I
 | ---- | ----------- |
 | en | English |
 | zh | Simplified Chinese |
-| es | Spanish|
+| es | Spanish |
 | fr | French |
 | de | German |
 | ja | Japanese |
+| zh-hant | Traditional Chinese |
