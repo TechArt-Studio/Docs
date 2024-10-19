@@ -1,5 +1,5 @@
 ---
-title: Tech-ARt Docs
+title: Tech-Art Docs
 layout: Tech-Art Official Docs
 ---
 
