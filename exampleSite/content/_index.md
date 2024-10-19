@@ -1,6 +1,6 @@
 ---
-title: Hextra Theme
-layout: hextra-home
+title: Tech-ARt Docs
+layout: Tech-Art Official Docs
 ---
 
 {{< hextra/hero-badge >}}
