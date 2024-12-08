@@ -6,6 +6,10 @@ next: docs/one-captcha/more/privacy
 weight: 4
 ---
 
+### 2024.12.08
+
+Added slider-captcha animation
+
 ### 2024.10.06
 
 Added translations for German and Japanese
