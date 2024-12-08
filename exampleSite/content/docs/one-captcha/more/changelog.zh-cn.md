@@ -6,6 +6,10 @@ next: docs/one-captcha/more/privacy
 weight: 4
 ---
 
+### 2024.12.8
+
+为 slider-captcha 增加了动画
+
 ### 2024.10.06
 
 增加对德语、日语的翻译
