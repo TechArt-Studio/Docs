@@ -6,7 +6,7 @@ next: docs/one-captcha/more/privacy
 weight: 4
 ---
 
-### 2024.12.8
+### 2024.12.08
 
 为 slider-captcha 增加了动画
 
