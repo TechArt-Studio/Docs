@@ -1,3 +1,11 @@
+---
+linkTitle: "Test"
+title: Test
+next: /docs/one-captcha/getting-started
+sidebar:
+  open: true
+---
+
 <div className="home-content">
     <div className="content-container">
       <h1 className="headline">
