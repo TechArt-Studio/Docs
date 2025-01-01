@@ -32,5 +32,6 @@ layout: Tech-Art Official Docs
     title="One Captcha"
     subtitle="One Captcha is a Captcha widget that protects user privacy"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
+    link="docs/one-captcha"
   >}}
 {{< /hextra/feature-grid >}}
