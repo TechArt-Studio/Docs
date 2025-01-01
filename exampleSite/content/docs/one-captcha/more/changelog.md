@@ -6,6 +6,10 @@ next: docs/one-captcha/more/privacy
 weight: 4
 ---
 
+### 2025.01.01
+
+Add "data-time" attribute.
+
 ### 2024.12.08
 
 Added slider-captcha animation
