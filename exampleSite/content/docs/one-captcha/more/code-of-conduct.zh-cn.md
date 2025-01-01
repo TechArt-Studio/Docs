@@ -1,13 +1,10 @@
 ---
 linkTitle: "行为准则"
-title: 行为准则
+title: 贡献者契约行为准则
 next: docs/one-captcha/getting-started
 prev: docs/one-captcha/more/terms
 weight: 7
 ---
-
-
-# 贡献者契约行为准则
 
 ## 我们的承诺
 
