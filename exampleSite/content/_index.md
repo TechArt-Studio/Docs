@@ -29,20 +29,8 @@ layout: Tech-Art Official Docs
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="Getting started"
-    subtitle="Reading is quick and easy, just visit our docs website to get the help documentation."
+    title="One Captcha"
+    subtitle="One Captcha is a Captcha widget that protects user privacy"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
-  {{< hextra/feature-card
-    title="Step-by-step instructions"
-    subtitle="Find the solutions you need with the help of Tech-Art Help Documents."
-  >}}
-  {{< hextra/feature-card
-    title="Platform Security"
-    subtitle="Helpful tips, instructions, and announcements to help you use our products."
-  >}}
-  {{< hextra/feature-card
-    title="Contact Help"
-    subtitle="Contact our help desk to assist you."
-  >}}
-
 {{< /hextra/feature-grid >}}
