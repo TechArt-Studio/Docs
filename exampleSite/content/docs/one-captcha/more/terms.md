@@ -2,13 +2,11 @@
 linkTitle: "Terms of Use"
 title: Terms of Use
 prev: docs/one-captcha/more/privacy
-next: docs/one-captcha/getting-started
+next: docs/one-captcha/more/code-of-coduct
 weight: 6
 ---
 
 ### Terms of Use
-
-**Last updated**: October 4, 2024
 
 Welcome to our Captcha application (hereinafter referred to as the "Service"). Please read the following Terms of Use (hereinafter referred to as the "Terms") carefully before using the Service. By accessing or using our Service, you accept and agree to abide by these Terms. If you do not agree to these Terms, please do not use our Service.
 
