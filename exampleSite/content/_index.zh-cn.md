@@ -32,6 +32,6 @@ layout: Tech-Art 官方文档·
     title="One Captcha"
     subtitle="One Captcha 是一个保护用户隐私的 Captcha 小部件"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
-    link="zh-ch/docs/one-captcha"
+    link="docs/one-captcha"
   >}}
 {{< /hextra/feature-grid >}}
