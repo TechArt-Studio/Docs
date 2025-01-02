@@ -8,7 +8,7 @@ weight: 4
 
 ### 2025.01.01
 
-添加了 "[data-time](./attribute)" 属性
+添加了 "[data-time](../attribute)" 属性
 
 ### 2024.12.08
 
