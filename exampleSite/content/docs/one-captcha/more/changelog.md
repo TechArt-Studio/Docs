@@ -8,7 +8,7 @@ weight: 4
 
 ### 2025.01.01
 
-Add "[data-time](attribute)" attribute.
+Add "[data-time](../attribute)" attribute.
 
 ### 2024.12.08
 
