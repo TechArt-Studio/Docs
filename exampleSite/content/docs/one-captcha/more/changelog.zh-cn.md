@@ -6,6 +6,10 @@ next: docs/one-captcha/more/privacy
 weight: 4
 ---
 
+### 2025.01.03
+
+增加了俄语翻译
+
 ### 2025.01.01
 
 添加了 "[data-time](../attribute)" 属性
