@@ -6,9 +6,13 @@ next: docs/one-captcha/more/privacy
 weight: 4
 ---
 
+### 2025.01.03
+
+Added translation for Russian
+
 ### 2025.01.01
 
-Add "[data-time](../attribute)" attribute.
+Added "[data-time](../attribute)" attribute.
 
 ### 2024.12.08
 
@@ -28,7 +32,7 @@ Improved Callback function to hash token
 
 ### 2024.09.30
 
-Add [multi-language](https://docs.xyehr.cn/docs/one-captcha/more/supported-language) function
+Added [multi-language](https://docs.xyehr.cn/docs/one-captcha/more/supported-language) function
 
 ### 2024.09.29
 
