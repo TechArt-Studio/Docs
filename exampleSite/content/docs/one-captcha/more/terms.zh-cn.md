@@ -3,10 +3,8 @@ linkTitle: "使用条款"
 title: "使用条款"
 prev: docs/one-captcha/more/privacy
 next: docs/one-captcha/more/code-of-conduct
-weight: 6
+weight: 7
 ---
-
-### 使用条款
 
 欢迎您使用我们的 Captcha 应用（以下简称“服务”）。在使用本服务之前，请仔细阅读以下使用条款（以下简称“条款”）。您通过访问或使用我们的服务，即表示您接受并同意遵守这些条款。如果您不同意这些条款，请不要使用我们的服务。
 
