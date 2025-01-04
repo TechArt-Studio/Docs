@@ -18,3 +18,4 @@ weight: 3
 | ja | 日语 |
 | zh-hant | 繁体中文 |
 | kr | 韩语 |
+| ru | 俄语 |
