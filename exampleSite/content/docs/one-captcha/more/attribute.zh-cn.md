@@ -11,3 +11,6 @@ weight: 1
 | data-callback | 必填，用户提交成功响应时执行的回调函数的名称。一个验证码令牌将传递给您的回调 |
 | data-time | 必填，Token 的有效时间以及 Captcha 的过期时间（单位：毫秒）|
 | data-lang | 可选，这是自定义语言，[目前支持的语言](https://docs.xyehr.cn/zh-cn/docs/one-captcha/more/supported-language/) |
+| data-unsupport-callback | 可选，老旧（不支持）的浏览器的 Callback 回调参数 |
+| error-callback | 可选，网络连接终端的 Callback 回调参数 |
+| error-recovery-callback | 可选，网络连接恢复的 Callback 回调参数 |
