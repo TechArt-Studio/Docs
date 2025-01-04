@@ -18,3 +18,4 @@ If your native language does not appear here, please [ask a question](https://gi
 | ja | Japanese |
 | zh-hant | Traditional Chinese |
 | kr | Korean |
+| ru | Russian |
