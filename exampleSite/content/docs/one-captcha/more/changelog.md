@@ -3,7 +3,7 @@ linkTitle: "Changelog"
 title: Changelog
 prev: docs/one-captcha/more/supported-language
 next: docs/one-captcha/more/privacy
-weight: 4
+weight: 5
 ---
 
 ### 2025.01.04
