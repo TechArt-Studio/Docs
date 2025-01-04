@@ -6,10 +6,6 @@ next: docs/one-captcha/more/terms
 weight: 6
 ---
 
-### Privacy Policy
-
-**Last updated**: October 4, 2024
-
 #### Introduction
 
 We take user privacy and data protection very seriously. This Privacy Policy is designed to inform you how we collect, use, store, protect and share your information. Please read this policy carefully to understand our practices.
