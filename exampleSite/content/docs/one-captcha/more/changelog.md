@@ -6,6 +6,10 @@ next: docs/one-captcha/more/privacy
 weight: 4
 ---
 
+### 2025.01.04
+
+Added "[error-callback](../attribute)", "[error-recovery-callback](../attribute)", and "[data-unsupport-callback](../attribute)" attributes
+
 ### 2025.01.03
 
 Added translation for Russian
