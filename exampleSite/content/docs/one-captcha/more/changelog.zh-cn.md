@@ -3,7 +3,7 @@ linkTitle: "更新日志"
 title: 更新日志
 prev: docs/one-captcha/more/supported-language
 next: docs/one-captcha/more/privacy
-weight: 4
+weight: 5
 ---
 
 ### 2025.01.04
