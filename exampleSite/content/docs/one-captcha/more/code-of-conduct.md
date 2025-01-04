@@ -1,13 +1,10 @@
 ---
 linkTitle: "Code of Conduct"
-title: Code of Conduct
+title: Contributor Covenant Code of Conduct
 next: docs/one-captcha/getting-started
 prev: docs/one-captcha/more/terms
 weight: 7
 ---
-
-
-# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
