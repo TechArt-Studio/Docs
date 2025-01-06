@@ -6,6 +6,10 @@ next: docs/one-captcha/more/privacy
 weight: 5
 ---
 
+### 2025.01.06
+
+Added some new images
+
 ### 2025.01.04
 
 Added "[error-callback](../attribute)", "[error-recovery-callback](../attribute)", and "[data-unsupport-callback](../attribute)" attributes
