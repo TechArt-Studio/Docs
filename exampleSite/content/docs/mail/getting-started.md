@@ -1,5 +1,10 @@
-
-
+---
+linkTitle: "Getting Start"
+title: Deploy
+next: /docs/mail/getting-started
+sidebar:
+  open: true
+---
 
 Get the [Resend API KEY](https://resend.com)
 
