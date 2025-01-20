@@ -31,4 +31,4 @@ This is a resend email sending web application built with NextJS, Password prote
 
 ## Deploy
 
-See [Getting Started](/getting-started)
+See [Getting Started](/docs/mail/getting-started)
