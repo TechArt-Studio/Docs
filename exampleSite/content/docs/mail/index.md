@@ -2,8 +2,6 @@
 linkTitle: "Mail"
 title: Mail
 next: /docs/mail/getting-started
-sidebar:
-  open: true
 ---
 
 This is a resend email sending web application built with NextJS, Password protected.
