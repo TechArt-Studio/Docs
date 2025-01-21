@@ -2,8 +2,6 @@
 linkTitle: "Mail"
 title: Mail
 next: /docs/mail/getting-started
-sidebar:
-  open: true
 ---
 
 这是一个使用 NextJS 构建的 Resend 网页版域名邮件发送网页，带密码保护
