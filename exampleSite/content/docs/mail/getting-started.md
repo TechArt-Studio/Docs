@@ -1,5 +1,5 @@
 ---
-linkTitle: "Getting Start"
+linkTitle: "Getting Started"
 title: Deploy
 next: /docs/mail/getting-started
 sidebar:
