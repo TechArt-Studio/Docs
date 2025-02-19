@@ -35,3 +35,21 @@ layout: Tech-Art 官方文档·
     link="docs/one-captcha"
   >}}
 {{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="EAuth"
+    subtitle="安全的 2FA 代码管理应用程序"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(53, 142, 174, 0.15), hsla(0, 0%, 100%, 0));"
+    link="https://xyehr.cn/blog/EAuth"
+  >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="Mail"
+    subtitle="使用自定义域名发送邮件"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(255, 204, 0, 0.15), hsla(0, 0%, 100%, 0));"
+    link="https://xyehr.cn/blog/send-email"
+  >}}
+{{< /hextra/feature-grid >}}
