@@ -35,3 +35,21 @@ layout: Tech-Art Official Docs
     link="docs/one-captcha"
   >}}
 {{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="EAuth"
+    subtitle="Secure 2FA code management application"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(53, 142, 174, 0.15), hsla(0, 0%, 100%, 0));"
+    link="https://xyehr.cn/blog/EAuth"
+  >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="Mail"
+    subtitle="Send mailusing custom domain"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(255, 204, 0, 0.15), hsla(0, 0%, 100%, 0));"
+    link="https://xyehr.cn/blog/send-email"
+  >}}
+{{< /hextra/feature-grid >}}
