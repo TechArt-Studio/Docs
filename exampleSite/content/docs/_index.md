@@ -1,4 +1,0 @@
----
-linkTitle: "Documentation"
-title: Introduction
----
