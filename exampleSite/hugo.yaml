@@ -71,7 +71,7 @@ menu:
       weight: 1
     - identifier: blog
       name: "Blog"
-      url: "https://xyehr.cn/archive"
+      pageRef: https://xyehr.cn/archive
       weight: 2
 
 params:
