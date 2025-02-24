@@ -27,11 +27,11 @@ weight: 1
 ```
 
 {{< callout type="info" >}}
-  我们还提供了一个测试 API（此测试 API 可以使用一些新功能，但可能不稳定）：
+  我们还提供了一个预览版 API（此测试 API 可以使用一些新功能，但可能不稳定）：
 {{< /callout >}}
 
 ```html
-<script src="https://onecaptcha.us.kg/0/api_test.js"></script>
+<script src="https://onecaptcha.us.kg/0/api_preview.js"></script>
 ```
 
 ### 第二步
