@@ -27,11 +27,11 @@ Import the following One Captcha API JavaScript code into the `<head>` tag of yo
 ```
 
 {{< callout type="info" >}}
-  We also have a test API (this test API can use some new features, but may not be stable):
+  We also have a preview API (this test API can use some new features, but may not be stable):
 {{< /callout >}}
 
 ```html
-<script src="https://onecaptcha.us.kg/0/api_test.js"></script>
+<script src="https://onecaptcha.us.kg/0/api_preview.js"></script>
 ```
 
 ### Step 2
