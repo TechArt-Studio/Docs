@@ -20,7 +20,7 @@ Import the following One Captcha API JavaScript code into the `<head>` tag of yo
 <script src="https://onecaptcha.us.kg/0/api.js"></script>
 ```
 
-**or**
+**or** （Obfuscated version）
 
 ```html
 <script src="https://onecaptcha.us.kg/0/api_lite.js"></script>
