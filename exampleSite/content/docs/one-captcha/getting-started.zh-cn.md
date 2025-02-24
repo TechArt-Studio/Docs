@@ -20,7 +20,7 @@ weight: 1
 <script src="https://onecaptcha.us.kg/0/api.js"></script>
 ```
 
-**或者**
+**或者** (混淆版本)
 
 ```html
 <script src="https://onecaptcha.us.kg/0/api_lite.js"></script>
