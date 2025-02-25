@@ -6,6 +6,10 @@ next: docs/one-captcha/more/privacy
 weight: 5
 ---
 
+### 2025.02.24
+
+Add translation for Polish
+
 ### 2025.01.06
 
 Added some new images
