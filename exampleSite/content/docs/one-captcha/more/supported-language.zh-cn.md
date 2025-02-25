@@ -6,7 +6,7 @@ next: docs/one-captcha/more/changelog
 weight: 3
 ---
 
-如果您的母语不在此列表中，请[提问](https://github.com/Dev-Huang1/One-Captcha/issues)或[为我们贡献翻译](https://github.com/Dev-Huang1/One-Captcha/blob/main/0/api_test.js)。
+如果您的母语不在此列表中，请[提问](https://github.com/Dev-Huang1/One-Captcha/issues)或[为我们贡献翻译](https://github.com/Dev-Huang1/One-Captcha/blob/main/0/api_preview.js)。
 
 | 代码 | 描述 |
 | ---- | ---- |
