@@ -19,3 +19,4 @@ If your native language does not appear here, please [ask a question](https://gi
 | zh-hant | Traditional Chinese |
 | kr | Korean |
 | ru | Russian |
+| pl | Polish |
