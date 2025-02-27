@@ -7,7 +7,12 @@
 
 @import url('https://cdn.xyehr.cn/font/Open-Sans.css');
 @import url('https://cdn.xyehr.cn/font/ECA.css');
-@import url('https://cdn.xyehr.cn/font/MVS.css');
+@font-face {
+  font-family: 'MVS';
+  src: url('https://cdn.xyehr.cn/font/source/MVS.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 *,
 ::before,
