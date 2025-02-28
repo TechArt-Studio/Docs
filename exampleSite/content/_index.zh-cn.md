@@ -1,6 +1,6 @@
 ---
-title: Tech-Art 文档
-layout: Tech-Art 官方文档·
+title:
+layout: Tech-Art 官方文档
 ---
 
 {{< hextra/hero-badge >}}
