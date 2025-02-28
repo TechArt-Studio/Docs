@@ -63,17 +63,6 @@ menu:
       params:
         icon: github
 
-  sidebar:
-    - identifier: more
-      name: More
-      params:
-        type: separator
-      weight: 1
-    - identifier: blog
-      name: "Blog"
-      pageRef: https://xyehr.cn/archive
-      weight: 2
-
 params:
   description: Welcome to Tech-Art official help document, here are some of our tutorials and more.
 
