@@ -10,8 +10,8 @@
 @font-face {
   font-family: 'MS';
   src: url('https://cdn.xyehr.cn/font/source/MonaSans.ttf') format('truetype');
-  font-weight: normal;
-  font-style: bold;
+  font-weight: bold;
+  font-style: normal;
 }
 
 *,
