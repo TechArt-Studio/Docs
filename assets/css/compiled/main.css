@@ -8,8 +8,8 @@
 @import url('https://cdn.xyehr.cn/font/Open-Sans.css');
 @import url('https://cdn.xyehr.cn/font/ECA.css');
 @font-face {
-  font-family: 'MS';
-  src: url('https://cdn.xyehr.cn/font/source/MonaSans.ttf') format('truetype');
+  font-family: 'MonaSans';
+  src: url('https://cdn.xyehr.cn/font/source/MonaSans.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
 }
