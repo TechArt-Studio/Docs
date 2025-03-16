@@ -26,10 +26,14 @@
     class="{{ $footerWidth }} hx-mx-auto hx-flex hx-justify-center hx-py-12 hx-pl-[max(env(safe-area-inset-left),1.5rem)] hx-pr-[max(env(safe-area-inset-right),1.5rem)] hx-text-gray-600 dark:hx-text-gray-400 md:hx-justify-start"
   >
     <div class="hx-flex hx-w-full hx-flex-col hx-items-center sm:hx-items-start">
+      <!-- 图标容器 -->
       <div class="hx-flex hx-gap-4 hx-mb-4">
-        <img src="https://cdn.xyehr.cn/images/svg/iso-dark.svg" alt="ISO" class="hx-h-8">
-        <img src="https://cdn.xyehr.cn/images/svg/gdpr-dark.svg" alt="GDPR" class="hx-h-8">
-        <img src="https://cdn.xyehr.cn/images/svg/ccpa-dark.svg" alt="CCPA" class="hx-h-8">
+        <img src="/images/iso-dark.svg" alt="ISO" class="hx-h-8 dark:hx-hidden">
+        <img src="/images/iso-light.svg" alt="ISO" class="hx-h-8 hx-hidden dark:hx-block">
+        <img src="/images/gdpr-dark.svg" alt="GDPR" class="hx-h-8 dark:hx-hidden">
+        <img src="/images/gdpr-light.svg" alt="GDPR" class="hx-h-8 hx-hidden dark:hx-block">
+        <img src="/images/ccpa-dark.svg" alt="CCPA" class="hx-h-8 dark:hx-hidden">
+        <img src="/images/ccpa-light.svg" alt="CCPA" class="hx-h-8 hx-hidden dark:hx-block">
       </div>
       {{- if .Site.Params.footer.displayCopyright }}
       <div class="hx-mt-6 hx-text-xs hx-font-semibold">{{ $copyright | markdownify }}</div>
