@@ -8,8 +8,8 @@
 @import url('https://cdn.xyehr.cn/font/Open-Sans.css');
 @import url('https://cdn.xyehr.cn/font/ECA.css');
 @font-face {
-  font-family: 'MonaSans';
-  src: url('https://cdn.xyehr.cn/font/source/MonaSans.woff2') format('woff2');
+  font-family: 'BoldSans';
+  src: url('https://cdn.xyehr.cn/font/source/BoldSans.ttf') format('TrueType');
   font-weight: 500;
   font-style: normal;
 }
@@ -45,7 +45,7 @@ html,
   -moz-tab-size: 4; /* 3 */
   -o-tab-size: 4;
      tab-size: 4; /* 3 */
-  font-family: ECA-L; /* ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */ /* 4 */
+  font-family: BoldSans; /* ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */ /* 4 */
   font-feature-settings: normal; /* 5 */
   font-variation-settings: normal; /* 6 */
   -webkit-tap-highlight-color: transparent; /* 7 */
