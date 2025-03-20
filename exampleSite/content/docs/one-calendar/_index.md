@@ -35,5 +35,5 @@ Supports the following date formats:
 ## Example
 
 ```
-https://calendar.xyehr.cn/?events=Name,1d9:00,1d11:30,Description,Home(Location),yellow,Evan, Tom, John
+https://calendar.xyehr.cn/?events=Name,1d9:00,1d11:30,Description,Home(Location),yellow,Evan
 ```
