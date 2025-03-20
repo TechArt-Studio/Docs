@@ -7,7 +7,7 @@ title: One Calendar
 
 This document will help you how to add one or more event using url
 
-Format: `?events=title, startTime, endTime, description (optional), location (optional), participants (optional), color`
+Format: `?events=title, startTime, endTime, description (optional), location (optional), color,  participants (optional)`
 
 ## Supported parameters
 
@@ -35,5 +35,5 @@ Supports the following date formats:
 ## Example
 
 ```
-https://calendar.xyehr.cn/?events=Name,1d9:00,1d11:30,Description,Home(Location),Evan,yellow
+https://calendar.xyehr.cn/?events=Name,1d9:00,1d11:30,Description,Home(Location),yellow,Evan, Tom, John
 ```
