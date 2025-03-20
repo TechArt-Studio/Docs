@@ -16,7 +16,7 @@ Format: `?events=title, startTime, endTime, description (optional), location (op
 - `endDate`: End date (default is 1 hour after the start time)
 - `description`: Event description
 - `location`: Event location
-- `participants`: Participants, separated by commas (e.g. `John, Evan, Tom`)
+- `participants`: Participants
 - `color`: Event color (optional values: blue, green, red, yellow, purple, pink, indigo, orange, teal)
 
 ## Date format
@@ -35,5 +35,5 @@ Supports the following date formats:
 ## Example
 
 ```
-https://calendar.xyehr.cn/?events=Name,1d9:00,1d11:30,Description,Home(Location),Evan, Tom,yellow
+https://calendar.xyehr.cn/?events=Name,1d9:00,1d11:30,Description,Home(Location),Evan,yellow
 ```
