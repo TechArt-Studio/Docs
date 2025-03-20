@@ -7,7 +7,7 @@ title: One Calendar
 
 This document will help you how to add one or more event using url
 
-Format: `?events=title, startTime, endTime, description (optional), location (optional), color,  participants (optional)`
+Format: `?events=title, startTime, endTime, description, location, color,  participants`
 
 ## Supported parameters
 
