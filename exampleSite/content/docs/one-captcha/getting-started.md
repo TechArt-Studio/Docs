@@ -17,13 +17,13 @@ This page describes how to display and customize the One Captcha v3 Developer Be
 Import the following One Captcha API JavaScript code into the `<head>` tag of your HTML page code:
 
 ```html
-<script src="https://onecaptcha.us.kg/0/api.js"></script>
+<script src="https://captcha.xyehr.cn/0/api.js"></script>
 ```
 
 **or** （Obfuscated version）
 
 ```html
-<script src="https://onecaptcha.us.kg/0/api_lite.js"></script>
+<script src="https://captcha.xyehr.cn/0/api_lite.js"></script>
 ```
 
 {{< callout type="info" >}}
@@ -31,7 +31,7 @@ Import the following One Captcha API JavaScript code into the `<head>` tag of yo
 {{< /callout >}}
 
 ```html
-<script src="https://onecaptcha.us.kg/0/api_preview.js"></script>
+<script src="https://captcha.xyehr.cn/0/api_preview.js"></script>
 ```
 
 ### Step 2
