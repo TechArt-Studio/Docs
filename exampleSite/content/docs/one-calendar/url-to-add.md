@@ -3,8 +3,6 @@ linkTitle: "URL to add event"
 title: How to use URL to add event
 ---
 
-## How to use URL to add event
-
 This document will help you how to add one or more event using url
 
 Format: `?events=title, startTime, endTime, description, location, color,  participants`
