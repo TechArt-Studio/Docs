@@ -17,7 +17,7 @@ title: One Calendar
 - `description`：活动描述
 - `location`：活动地点
 - `participants`：参与者
-- `color`：活动颜色（可选值：蓝色、绿色、红色、黄色、紫色、粉色、靛蓝、橙色、青色）
+- `color`：活动颜色（可选值：blue, green, red, yellow, purple, pink, indigo, orange, teal）
 
 ## 日期格式
 
