@@ -1,9 +1,7 @@
 ---
-linkTitle: "One Calendar"
-title: One Calendar
+linkTitle: "URL 添加活动"
+title: 如何使用 URL 添加活动
 ---
-
-## 如何使用 URL 添加活动
 
 本文档将帮助您如何使用 url 添加一个或多个活动
 
