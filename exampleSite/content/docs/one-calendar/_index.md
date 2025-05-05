@@ -35,7 +35,7 @@ Supports the following date formats:
 ## Example
 
 ```
-https://calendar.xyehr.cn/?events=Name,1d9:00,1d11:30,Description,Home(Location),yellow,Evan
+https://calendar.xyehr.cn/app?events=Name,1d9:00,1d11:30,Description,Home(Location),yellow,Evan
 ```
 
 If you need to skip some optional items, you need to leave this blank.
@@ -43,5 +43,5 @@ If you need to skip some optional items, you need to leave this blank.
 For example(I don't want to add Description and location ):
 
 ```
-https://calendar.xyehr.cn/?events=Name,1d9:00,1d11:30,,,yellow,Evan
+https://calendar.xyehr.cn/app?events=Name,1d9:00,1d11:30,,,yellow,Evan
 ```
