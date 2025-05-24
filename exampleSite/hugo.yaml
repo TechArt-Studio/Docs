@@ -131,7 +131,7 @@ params:
 
     # https://giscus.app/
     giscus:
-      repo: Dev-Huang1/TechArt-Docs
+      repo: TechArt-Studio/Docs
       repoId: R_kgDOM3BKrQ
       category: General
       categoryId: DIC_kwDOM3BKrc4CiyGm
