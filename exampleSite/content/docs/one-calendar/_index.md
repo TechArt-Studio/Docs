@@ -7,22 +7,25 @@ sidebar:
 ---
 
 <div align="center">
-  <img src="https://calendar.xyehr.cn/icon.svg" width="72">
+  <img src="public/icon.svg" width="72">
   
 # One Calendar
 
-<a href="https://vercel.com/tech-art/one-calendar" target="_blank" style="display: inline-block;"><img src="https://vercelbadge.vercel.app/api/EvanTechDev/One-Calendar?style=flat-square" alt="Vercel Project Status"></a>
-<a href="https://github.com/EvanTechDev/One-Calendar/blob/master/LICENSE" target="blank" style="display: inline-block;"><img src="https://img.shields.io/github/license/EvanTechDev/One-Calendar?style=flat-square" alt="license"></a>
-<a href="https://github.com/EvanTechDev/One-Calendar/fork" target="blank" style="display: inline-block;"><img src="https://img.shields.io/github/forks/EvanTechDev/One-Calendar?style=flat-square" alt="forks"></a>
-<a href="https://github.com/EvanTechDev/One-Calendar/stargazers" target="blank" style="display: inline-block;"><img src="https://img.shields.io/github/stars/EvanTechDev/One-Calendar?style=flat-square" alt="stars"></a>
-<a href="https://github.com/EvanTechDev/One-Calendar/issues" target="blank" style="display: inline-block;"><img src="https://img.shields.io/github/issues/EvanTechDev/One-Calendar?style=flat-square" alt="issues"></a>
-<a href="https://github.com/EvanTechDev/One-Calendar/pulls" target="blank" style="display: inline-block;"><img src="https://img.shields.io/github/issues-pr/EvanTechDev/One-Calendar?style=flat-square" alt="pull-requests"></a>
+<p>
 
+<a href="https://vercel.com/tech-art/one-calendar" target="_blank"><img src="https://vercelbadge.vercel.app/api/EvanTechDev/One-Calendar?style=flat-square" alt="Vercel Project Status"></a>
+<a href="https://github.com/EvanTechDev/One-Calendar/blob/master/LICENSE" target="blank"><img src="https://img.shields.io/github/license/EvanTechDev/One-Calendar?style=flat-square" alt="license"></a>
+<a href="https://github.com/EvanTechDev/One-Calendar/fork" target="blank"><img src="https://img.shields.io/github/forks/EvanTechDev/One-Calendar?style=flat-square" alt="forks"></a>
+<a href="https://github.com/EvanTechDev/One-Calendar/stargazers" target="blank"><img src="https://img.shields.io/github/stars/EvanTechDev/One-Calendar?style=flat-square" alt="stars"></a>
+<a href="https://github.com/EvanTechDev/One-Calendar/issues" target="blank"><img src="https://img.shields.io/github/issues/EvanTechDev/One-Calendar?style=flat-square" alt="issues"></a>
+<a href="https://github.com/EvanTechDev/One-Calendar/pulls" target="blank"><img src="https://img.shields.io/github/issues-pr/EvanTechDev/One-Calendar?style=flat-square" alt="pull-requests"></a>
+
+</p>
 
 A beautifully minimal open-source calendar app to plan your week and life.
 
 
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/EvanTechDev/One-Calendar&env=NEXT_PUBLIC_BASE_URL,NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY,CLERK_SECRET_KEY,OPENWEATHER_API_KEY,BLOB_READ_WRITE_TOKEN&project-name=one-calendar&repo-name=one-calendar" style="display: inline-block;"><img src="https://vercel.com/button" alt="Deploy with Vercel" style="height: 32px;"></a>
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/EvanTechDev/One-Calendar&env=NEXT_PUBLIC_BASE_URL,NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY,CLERK_SECRET_KEY&project-name=one-calendar&repo-name=one-calendar" style="display: inline-block;"><img src="https://vercel.com/button" alt="Deploy with Vercel" style="height: 32px;"></a>
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/EvanTechDev/One-Calendar" style="display: inline-block;"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" style="height: 32px;"></a>
 
 
@@ -34,6 +37,8 @@ A beautifully minimal open-source calendar app to plan your week and life.
 
 > Without *One Calendar*, your schedule is scattered. With it, your week feels intentional.
 
+<a herf="https://producthunt.com/product/one-calendar"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=955482&theme=light&t=1748791250175"></img></a>
+
 ## Why One Calendar?
 
 Most calendar tools are cluttered, over-engineered, or locked behind paywalls. One Calendar aims to be:
@@ -41,7 +46,7 @@ Most calendar tools are cluttered, over-engineered, or locked behind paywalls. O
 - 🧠 **AI Powered** – AI-first app that streamlines your scheduling.
 - 🕹 **Interactive & Smooth** – Drag, drop, right-click, and edit with ease.
 - 🔐 **Private & Local** – Your data is yours. Export, backup, and control.
-- ☁️ **Cloud Sync** – Optional sync via Vercel Blob.
+- ☁️ **Cloud Sync** – Optional sync via PostgreSQL.
 - 🌐 **Clerk-Account** – Easily login with third-party.
 - 🌍 **International** – Automatically adapts to your language (English / 中文).
 - 🧱 **Customizable** – Tailor themes, default view, and integrations.
@@ -50,16 +55,19 @@ Most calendar tools are cluttered, over-engineered, or locked behind paywalls. O
 
 - **Frontend**: Next.js 14, Tailwind CSS, shadcn/ui, TypeScript
 - **Auth**: Clerk
-- **Storage**: LocalStorage, Vercel Blob, Misskey Drive
+- **Storage**: PostgreSQL
 - **Weather**: OpenWeather API
 - **AI**: Groq API
+- **Analytics**: Vercel Analytics
+- **Deploy**: Vercel
 
-![TechStack](https://skills-icons.vercel.app/api/icons?i=nextjs,ts,tailwindcss,shadcnui,clerk,groq,vercel,openweather,bun)
+![TechStack](https://skills-icons.vercel.app/api/icons?i=nextjs,ts,tailwindcss,shadcnui,clerk,groq,vercel,openweather,bun.postgresql)
 
 ## Preview
 
-![Home](https://calendar.xyehr.cn/Home.jpg)
-![App](https://calendar.xyehr.cn/Banner.jpg)
+![App](/public/Banner.jpg)
+![Green](https://github.com/user-attachments/assets/3d5da3bd-007b-4e45-9833-da86d0122598)
+![Yellow](https://github.com/user-attachments/assets/ab667369-c258-41b8-b8e1-f660606b9faa)
 
 ## Getting Started
 
@@ -81,7 +89,7 @@ cd One-Calendar
 bun install
 
 # Start the app
-bun run dev
+bun dev
 ```
 
 Then visit `http://localhost:3000`
@@ -91,9 +99,11 @@ Then visit `http://localhost:3000`
 Copy `.env.example` to `.env` and fill in:
 
 ```env
-NEXT_PUBLIC_BASE_URL=your-url
+# Required 
+NEXT_PUBLIC_BASE_URL=http://localhost:3000
+SALT=Backup-Salt
 
-# Clerk API key （Require）
+# Auth (Required)
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your-clerk-publishable-key
 CLERK_SECRET_KEY=your-clerk-secret
 
@@ -101,39 +111,46 @@ CLERK_SECRET_KEY=your-clerk-secret
 GROQ_API_KEY=your-groq-api
 OPENWEATHER_API_KEY=your-open-weather-api-key
 
-# Optional, choose between Misskey and Vercel blob
-MISSKEY_URL=https://misskey.io
-MISSKEY_TOKEN=your-misskey-token
-BLOB_READ_WRITE_TOKEN=your-vercel-blob-token
+# Optional, database
+POSTGRES_URL=postgres://postgres:postgres@localhost:5432/onecalendar
+
+# Optional, Cloudflare turnstile captcha
+NEXT_PUBLIC_TURNSTILE_SITE_KEY=site-key
+TURNSTILE_SECRET_KEY=secret-key
 ```
 
 ### Enviroment Setup
 
-1.Misskey Drive
+1. SALT
 
-Go to social media built with Misskey
+Install Openssl and Use this command to generate a SALT
 
-Go to `Settings` < `API`
-
-![API](https://github.com/user-attachments/assets/db9cead7-96a2-4fd7-8c0b-55429198aa91)
-
-Click `Generate Access Token`
-
-![Generate_Token](https://github.com/user-attachments/assets/db068882-060d-4752-ac5e-7809dfb6a9b8)
-
-
-Click  `Enable All`, then confirm
-
-![Enable_All](https://github.com/user-attachments/assets/58d445da-4133-4519-9e7e-8f4d62dd9116)
-
-Fill in the env file:
-
-```env
-MISSKEY_URL=https://misskey.io (or your url)
-MISSKEY_TOKEN=your-misskey-token
+```
+openssl rand -hex 16
 ```
 
-2. Groq
+Then copy it into .env
+
+2. PostgreSQL
+
+Run this command if you installed docker
+
+```
+bun run db
+```
+
+And the env:
+
+```env
+POSTGRES_URL=postgres://postgres:postgres@localhost:5432/onecalendar
+```
+
+3. Cloudflare Turnstile
+
+> [!NOTE]\
+> Updating
+
+4. Groq
 
 Go to [Groq Console](https://console.groq.com) and login
 
@@ -171,8 +188,6 @@ Check out our [contributors](https://github.com/EvanTechDev/One-Calendar/graphs/
 
 BTC: `bc1qdhn6c7tlcaflzu3u5fva825l20k9eqnqag5xzj`
 
-MOB: `6tKKBDHJFcRhCvTx9wJeNH8gUUfXvPUBHnegCV8M3Qniy4UBDyRzQrHQnxGcGEebibG3Q62RxgKABe75kArpLkd8igwWw6BviTAcyp7DGgZ2LqMBWjSPEgypMSGpDjwqfD6L9PECUm4HZzRGCvMT3jL8rjev4thCqH16jrrVBnUt7VDrqZsoSDVViEAGitG9axZtekUQNK2vzgdYxPEQtnZ4ouYyPLaxPYmKHDW2XrQuA5`
-
 ## Acknowledgements
 
 This project wouldn't be possible without these awesome services:
@@ -188,7 +203,3 @@ This project wouldn't be possible without these awesome services:
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).  
 See the [LICENSE](./LICENSE) file for details.
-
-> [!NOTE]\
-> Some components are adapted from external sources under the MIT License, including parts of the [Zero Email](https://github.com/Mail-0/Zero) project.  
-> These components retain their original license terms. See relevant files for copyright.
