@@ -1,6 +1,11 @@
 ---
 linkTitle: Blog
-title: Introduction
+title: Blog
 ---
 
-Welcome to Tech-Art Studio's blog hub! This is where we publish Tech-Art news, provide technical insights and creative inspiration.
+<div style="text-align: center; margin-top: 1em;">
+{{< hextra/hero-badge link="index.xml" >}}
+  <span>RSS</span>
+  {{< icon name="rss" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+</div>
