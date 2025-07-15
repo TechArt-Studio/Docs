@@ -11,7 +11,7 @@ sidebar:
   
 # One Calendar
 
-<p>
+<p style="display: flex; justify-content: center;">
 
 <a href="https://vercel.com/tech-art/one-calendar" target="_blank"><img src="https://vercelbadge.vercel.app/api/EvanTechDev/One-Calendar?style=flat-square" alt="Vercel Project Status"></a>
 <a href="https://github.com/EvanTechDev/One-Calendar/blob/master/LICENSE" target="blank"><img src="https://img.shields.io/github/license/EvanTechDev/One-Calendar?style=flat-square" alt="license"></a>
@@ -192,7 +192,7 @@ BTC: `bc1qdhn6c7tlcaflzu3u5fva825l20k9eqnqag5xzj`
 
 This project wouldn't be possible without these awesome services:
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; text-align: center;">
   <a href="https://vercel.com" style="text-decoration: none;"><img src="https://github.com/user-attachments/assets/5107d47f-7ce9-425a-8e24-77c322205bd4" alt="Vercel" width="96"/></a>
   <a href="https://clerk.com" style="text-decoration: none;"><img src="https://github.com/user-attachments/assets/6f9fa5d7-e0c2-4c14-aef9-e39bd0465e23" alt="Clerk" width="96"/></a>
   <a href="https://groq.com" style="text-decoraion: none;"><img src="https://github.com/user-attachments/assets/650dc220-c0a7-4761-a7ce-2c24a7d75133" alt="Groq" width="96"></a>
