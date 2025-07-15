@@ -61,7 +61,7 @@ Most calendar tools are cluttered, over-engineered, or locked behind paywalls. O
 - **Analytics**: Vercel Analytics
 - **Deploy**: Vercel
 
-![TechStack](https://skills-icons.vercel.app/api/icons?i=nextjs,ts,tailwindcss,shadcnui,clerk,groq,vercel,openweather,bun.postgresql)
+<img src="https://skills-icons.vercel.app/api/icons?i=nextjs,ts,tailwindcss,shadcnui,clerk,groq,vercel,openweather,bun.postgresql" style="display: inline-block;"></img>
 
 ## Preview
 
@@ -192,11 +192,13 @@ BTC: `bc1qdhn6c7tlcaflzu3u5fva825l20k9eqnqag5xzj`
 
 This project wouldn't be possible without these awesome services:
 
-<div style="display: flex; justify-content: center; text-align: left;">
+<div style="justify-content: center;">
+  
   <a href="https://vercel.com" style="text-decoration: none; display: inline-block;"><img src="https://github.com/user-attachments/assets/5107d47f-7ce9-425a-8e24-77c322205bd4" alt="Vercel" width="96"/></a>
   <a href="https://clerk.com" style="text-decoration: none; display: inline-block;"><img src="https://github.com/user-attachments/assets/6f9fa5d7-e0c2-4c14-aef9-e39bd0465e23" alt="Clerk" width="96"/></a>
   <a href="https://groq.com" style="text-decoraion: none; display: inline-block;"><img src="https://github.com/user-attachments/assets/650dc220-c0a7-4761-a7ce-2c24a7d75133" alt="Groq" width="96"></a>
   <a href="https://openweathermap.org" style="text-decoration: none; display: inline-block;"><img src="https://github.com/user-attachments/assets/d07ed7a1-c374-45f5-90fd-17c3de2a9098" alt="OpenWeather API" width="96"/></a>
+  
 </div>
 
 ## License
