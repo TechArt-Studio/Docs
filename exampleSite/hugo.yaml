@@ -49,16 +49,20 @@ enableInlineShortcodes: true
 
 menu:
   main:
+    - identifier: blog
+      name: Blog
+      pageRef: /blog
+      weight: 1
     - identifier: documentation
       name: Documentation
       pageRef: /docs
-      weight: 1
-    - name: Search
       weight: 2
+    - name: Search
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 3
+      weight: 4
       url: "https://github.com/TechArt-Studio"
       params:
         icon: github
