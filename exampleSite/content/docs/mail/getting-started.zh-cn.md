@@ -32,4 +32,4 @@ DOMAIN=example.com
 npm run dev
 ```
 
-Finally, open your browser and visit [https://localhost:3000/](https://localhost:3000/)
+最后，打开浏览器访问 [https://localhost:3000/](https://localhost:3000/)
