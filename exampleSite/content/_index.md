@@ -31,7 +31,7 @@ layout: Tech-Art Official Docs
   {{< hextra/feature-card
     title="One Calendar"
     subtitle="A beautifully minimal open-source calendar app to plan your week and life."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] ""
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] "
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
     link="docs/one-calendar"
   >}}
