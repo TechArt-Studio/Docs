@@ -31,21 +31,18 @@ layout: Tech-Art 官方文档
   {{< hextra/feature-card
     title="One Calendar"
     subtitle="一款精美简约的开源日历应用程序，用于规划您的一周和生活"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
     link="docs/one-calendar"
   >}}
   {{< hextra/feature-card
     title="White Cloud"
     subtitle="简单的分布式去中心化联合社交媒体"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(53, 142, 174, 0.15), hsla(0, 0%, 100%, 0));"
     link="https://wcapp.dpdns.org"
   >}}
   {{< hextra/feature-card
     title="Mail"
     subtitle="使用自定义域名发送邮件"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(255, 204, 0, 0.15), hsla(0, 0%, 100%, 0));"
     link="docs/mail"
   >}}
