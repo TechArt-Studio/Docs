@@ -38,14 +38,14 @@ layout: Tech-Art Official Docs
   {{< hextra/feature-card
     title="White Cloud"
     subtitle="Simple distributed decentralized federated social media"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] "
     style="background: radial-gradient(ellipse at 50% 80%, rgba(53, 142, 174, 0.15), hsla(0, 0%, 100%, 0));"
     link="https://wcapp.dpdns.org"
   >}}
   {{< hextra/feature-card
     title="Mail"
     subtitle="Send mailusing custom domain"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1]"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(255, 204, 0, 0.15), hsla(0, 0%, 100%, 0));"
     link="docs/mail"
   >}}
