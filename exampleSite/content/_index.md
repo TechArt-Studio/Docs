@@ -31,22 +31,17 @@ layout: Tech-Art Official Docs
   {{< hextra/feature-card
     title="One Calendar"
     subtitle="A beautifully minimal open-source calendar app to plan your week and life."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] "
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
     link="docs/one-calendar"
   >}}
   {{< hextra/feature-card
     title="White Cloud"
     subtitle="Simple distributed decentralized federated social media"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] "
     style="background: radial-gradient(ellipse at 50% 80%, rgba(53, 142, 174, 0.15), hsla(0, 0%, 100%, 0));"
     link="https://wcapp.dpdns.org"
   >}}
   {{< hextra/feature-card
     title="Mail"
     subtitle="Send mailusing custom domain"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1]"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(255, 204, 0, 0.15), hsla(0, 0%, 100%, 0));"
     link="docs/mail"
   >}}
 {{< /hextra/feature-grid >}}
