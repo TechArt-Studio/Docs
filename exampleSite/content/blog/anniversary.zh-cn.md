@@ -1,5 +1,5 @@
 ---
-linkTitle: “庆祝一周年”
+linkTitle: "庆祝一周年"
 title: 我们的旅程与未来 - Open Workspace
 ---
 
