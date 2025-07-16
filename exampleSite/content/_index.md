@@ -31,6 +31,7 @@ layout: Tech-Art Official Docs
   {{< hextra/feature-card
     title="One Calendar"
     subtitle="A beautifully minimal open-source calendar app to plan your week and life."
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
     link="docs/one-calendar"
   >}}
   {{< hextra/feature-card
@@ -42,6 +43,7 @@ layout: Tech-Art Official Docs
   {{< hextra/feature-card
     title="Mail"
     subtitle="Send mailusing custom domain"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(255, 204, 0, 0.15), hsla(0, 0%, 100%, 0));"
     link="docs/mail"
   >}}
 {{< /hextra/feature-grid >}}
