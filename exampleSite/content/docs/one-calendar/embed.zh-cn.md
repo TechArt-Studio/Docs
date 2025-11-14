@@ -7,8 +7,8 @@ title: 如何内嵌分享卡片
 
 <iframe 
             src="https://precal.xyehr.cn/embed/1763113121914rz8b03g"
-            width="100%"
-            height="400"
+            width="500"
+            height="300"
             frameborder="0"
             scrolling="no"
         ></iframe>
@@ -18,11 +18,13 @@ title: 如何内嵌分享卡片
 ```html
 <iframe
     src="https://calendar.xyehr.cn/embed/shareId"
-    width="100%"
-    height="400"
+    width="500"
+    height="300"
     frameborder="0"
     scrolling="no"
 ></iframe>
 ```
 
-其中的`shareId`替换为您的分享链接的 shareId，一般为 share/ 后面的字符
+其中的`shareId`替换为您的分享链接的 shareId，一般为链接 share/ 后面的字符。
+
+您还可以调整其中的 width 和 height，以符合您的布局设计。
