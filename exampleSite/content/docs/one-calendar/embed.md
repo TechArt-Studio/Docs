@@ -1,6 +1,6 @@
---- linkTitle: "Embedded Share Card"
+--- 
+linkTitle: "Embedded Share Card"
 title: How to Embedded Share Card
-
 ---
 
 This is an example of an embedded card:
