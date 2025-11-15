@@ -1,7 +1,9 @@
 ---
-linkTitle: 账号
-title: 注册和管理你的 Open Workspace 账号
+linkTitle: 账号中心
+title: Open Workspace 账号中心
 ---
+
+Open Workspace 账号中心 是一个可以管理更改帐户设置（例如您的联系信息）的地方。
 
 目前，我们主要已经在 One Calendar 中配置了登录和注册功能，您注册的 One Calendar 账户其实就是您的 Open Workspace 账户。未来，我们会为我们的新产品增加登录和注册功能，以确保您能第一时间体验到它们。
 
