@@ -7,7 +7,7 @@ sidebar:
 ---
 
 <div align="center">
-  <img src="https://cal.xyehr.cn/icon.svg" width="72">
+  <img src="https://calendar.xyehr.cn/icon.svg" width="72">
   
 # One Calendar
 
@@ -65,7 +65,7 @@ Most calendar tools are cluttered, over-engineered, or locked behind paywalls. O
 
 ## Preview
 
-![App](https://cal.xyehr.cn/Banner.jpg)
+![App](https://calendar.xyehr.cn/Banner.jpg)
 ![Green](https://github.com/user-attachments/assets/3d5da3bd-007b-4e45-9833-da86d0122598)
 ![Yellow](https://github.com/user-attachments/assets/ab667369-c258-41b8-b8e1-f660606b9faa)
 
